@@ -55,16 +55,16 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/abdullah-nasr" target="_blank">
+  <a href="https://linkedin.com/in/abdullah-nasr" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-nasr" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/abdullah_nasr10" target="_blank">
+  <a href="https://twitter.com/abdullah_nasr10" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullah_nasr10" height="30" width="40" />
   </a>
-  <a href="https://fb.com/abdullah.nasr10" target="_blank">
+  <a href="https://fb.com/abdullah.nasr10" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.nasr10" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/abdullah_nasr10" target="_blank">
+  <a href="https://instagram.com/abdullah_nasr10" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah_nasr10" height="30" width="40" />
   </a>
 </p>
